@@ -8,7 +8,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/noetipo/DAD-backend.git
+          uri: https://github.com/guver71/DAD-Gcc.git
           #username:
           #password:
           search-paths: config-data
